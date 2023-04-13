@@ -1,0 +1,7 @@
+Bill Gates
+79951
+79951
+PSO,Pakistan State Oil,600,151
+LUCK,Lucky Cement,500,485
+HBL,Habib Bank Limited,2500,69
+OGDC,Oil & Gas Dev. Comp.,3000,76
